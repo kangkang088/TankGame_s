@@ -1,0 +1,4 @@
+repository "TankGame_s@wechat_os_qy03kvb7liywlibkzx_o5io00@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
